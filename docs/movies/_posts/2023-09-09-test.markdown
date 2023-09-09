@@ -2,6 +2,6 @@
 layout: post
 title:  "This is a test"
 date:   2023-09-09
-categories: movies
+categories: [movies, test]
 ---
 This is a test post to see what the effect of placing posts inside directories is. This post is in the movies subdirectory.
