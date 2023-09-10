@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Gran Turismo"
+date:   2023-09-09
+categories: Movies
+---
+This is a test post. I think the strategy is to use Collections to group posts of the same type together. I can try to do this by category I think. For now, I'm going to just have a page with the Categories, then a giant list of posts by each category.
+
+### Gran Turismo
+Uplifting movie with a bit of cheese ("No, Dad, you DON'T understand!"). We saw it in 4DX, which was fun.
